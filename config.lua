@@ -1,12 +1,12 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '252655383:AAHnlOXeoBaqGm6nT0afSNO-ipypMPvAUOg',
 	version = '3.1', -- /aupdate for v3.1
 	testing_mode = false,
 	admin = {
-		owner = 23646077,
+		owner = 213787632,
 		admins = {
-			[141956218] = true,
-			[23646077] = true
+			[213787632] = true,
+			[213787632] = true
 		}
 	},
 	log_chat = -1001057801239,
@@ -32,7 +32,8 @@ return {
 		'private.lua',
 		'admin.lua',
 		'faq.lua',
-		--'test.lua'
+		'linkshort',
+		'simsimi'
 	},
 	available_languages = {
 		'en',
