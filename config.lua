@@ -32,8 +32,8 @@ return {
 		'private.lua',
 		'admin.lua',
 		'faq.lua',
-		'linkshort',
-		'simsimi'
+		'linkshort.lua',
+		'simsimi.lua'
 	},
 	available_languages = {
 		'en',
